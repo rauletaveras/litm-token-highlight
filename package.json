@@ -1,0 +1,15 @@
+{
+  "name": "litm-token-highlight",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "esbuild main.ts --bundle --external:obsidian --external:@codemirror/view --external:@codemirror/state --format=cjs --outfile=main.js"
+  },
+  "devDependencies": {
+    "@codemirror/state": "^6.0.0",
+    "@codemirror/view": "^6.0.0",
+    "@types/node": "^18.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.4.0",
+    "typescript": "^5.0.0"
+  }
+}
