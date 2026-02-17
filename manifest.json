@@ -1,9 +1,1 @@
-{
-  "id": "litm-token-highlight",
-  "name": "Legend in the Mist Token Highlight",
-  "version": "1.1.0",
-  "minAppVersion": "1.4.0",
-  "description": "Colours and reformats [T:…] and [S:…] tokens for Legend in the Mist notes.",
-  "author": "Raúl Ernesto Taveras Franco",
-  "isDesktopOnly": false
-}
+{"id":"litm-token-highlight","name":"Legend in the Mist Token Highlight","version":"1.1.0","minAppVersion":"1.4.0","description":"Colours and reformats [T:…] and [S:…] tokens for Legend in the Mist notes.","author":"Raúl Ernesto Taveras Franco","isDesktopOnly":false}
